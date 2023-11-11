@@ -1,1 +1,3 @@
 hi there im just testing thr data in this file from visual studio
+
+vm size- meduim 
